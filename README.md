@@ -4,12 +4,9 @@ Hi 👋 My name is Alik Reznik
 Web and Software development
 ----------------------------
 
-I've been learning programming for 6 years. I started learning visual basic at Microsoft and then learned java for two years. Since then I've learned web development with google. I am a computer science major with an average grade of 100.
-
 * 🌍  I'm based in Israel
 * 🖥️  See my portfolio at [My Portfolio](http://alikreznik.co.il)
 * ✉️  You can contact me at [druber07@gmail.com](mailto:druber07@gmail.com)
-* 🧠  I'm learning React & Node js
 
 ### Skills
 
@@ -35,7 +32,3 @@ I've been learning programming for 6 years. I started learning visual basic at M
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AlikReznik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/AlikReznik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/AlikReznik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/AlikReznik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AlikReznik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/AlikReznik"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
