@@ -5,7 +5,7 @@
 - 🎖️ Military background in signal corps
 - 🔐 Building toward a career in Cybersecurity, leveraging a technical + operational foundation
 - 🌍 Based in Israel
-- 🖥️ [https://docs.google.com/document/d/1Vj5wQZt1EADd3RHniXCY4ZRVLZTfLQpddtP9-QV0_RM/edit?usp=sharing](Resume)
+- 🖥️ [Resume](https://docs.google.com/document/d/1Vj5wQZt1EADd3RHniXCY4ZRVLZTfLQpddtP9-QV0_RM/edit?usp=sharing)
 - ✉️ Contact: <rznkalik@gmail.com>
 
 ### Background
